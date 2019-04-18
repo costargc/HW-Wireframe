@@ -12,10 +12,6 @@ In this assignment, you will build a web design skeleton using HTML/CSS. Your co
 
 * Just because this is the "easier" assignment does not make it the "quick" one. The process of learning web development is nothing without a serious time investment. While the work may seem strenuous now, you'll find yourself becoming more comfortable with web development as you put more hours into your training.
 
-### Submission on BCS
-
-* Please submit the link to the Github Repository!
-
 ### Instructions
 
 1. Create a new repository in GitHub called `HW-Wireframe`.
@@ -67,19 +63,3 @@ In this assignment, you will build a web design skeleton using HTML/CSS. Your co
 * For a refresher on working with Git and GitHub, consult the GitHub Supplemental Guide we sent you in class.
 * Don't forget to review these concepts: `float`, `padding`, `margin`, `display`, `overflow`, `clear` and `text-align`.
 * This will be a tough assignment. Towards the end of the course, you'll look back to this exercise and realize just how much you've grown as a developer. Stay positive!
-
-### Reminder: Submission on BCS
-
-* Please submit the link to the Github Repository!
-
-- - -
-
-### Minimum Requirements
-
-Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed.
-
-- - -
-
-### One More Thing
-
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
