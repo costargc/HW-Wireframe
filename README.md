@@ -1,4 +1,4 @@
-## Easier Assignment - Building a Wireframe
+# Building a Wireframe
 
 ### Overview
 
