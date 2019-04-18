@@ -6,7 +6,7 @@ In this assignment, you will build a web design skeleton using HTML/CSS. Your co
 
 ![Final Layout](Images/Easier-Layout.png)
 
-### Student Notes
+### Notes
 
 * This exercise will challenge most students unfamiliar with HTML/CSS. If you see this task as too simple or if you finish it within three hours, attempt the second homework assignment.
 
